@@ -1,0 +1,8 @@
+# Compiled files
+*.o
+*.exe
+*.out
+atm
+
+# User data (generated at runtime)
+users.txt
