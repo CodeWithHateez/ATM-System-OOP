@@ -25,18 +25,18 @@ A command-line ATM simulation system built using **C++** and **Object-Oriented P
    - Username: john
    - PIN: 5678
 
-🧰 Technologies Used
+## 🧰 Technologies Used
    - C++
 
    - Object-Oriented Programming
 
    - Command Line Interface (CLI)
 
-📂 Project Structure
+## 📂 Project Structure
    atm.cpp          # Main source code
    README.md        # Project documentation
 
-📌 Note
+## 📌 Note
 This project is for educational purposes only and does not include file/database persistence or encryption.
 
 
